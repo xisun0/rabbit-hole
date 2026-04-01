@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use Rabbit Hole, please cite it as below."
+title: "Rabbit Hole"
+type: software
+authors:
+  - family-names: "Sun"
+    given-names: "Xi"
+repository-code: "https://github.com/xisun0/rabbit-hole"
+url: "https://github.com/xisun0/rabbit-hole"
+abstract: "Rabbit Hole is a dream-inspired skill suite for concept recombination, hypothesis generation, and non-obvious idea development."
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-04-01"
