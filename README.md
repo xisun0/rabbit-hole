@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo/logo-primary.png" alt="Rabbit Hole logo" width="360">
+</p>
+
 # Rabbit Hole
 
 Dream-inspired agent skills for concept recombination, hypothesis generation, and non-obvious ideas.
